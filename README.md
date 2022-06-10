@@ -30,5 +30,4 @@
 
 
 
-<h3 align="center">Support:</h3>
-<p><a href="https://ko-fi.com/liliwu08"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="liliwu08" /></a></p><br><br>
+
