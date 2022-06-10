@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Li Li Wu</h1>
+<h1 align="left">Hi 👋,  I'm Li Li Wu</h1>
 <h3 align="left">A passionate fullStack software engineer from NYC</h3>
 
 
