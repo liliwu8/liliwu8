@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Li Li Wu</h1>
 <h3 align="left">A passionate fullStack software engineer from NYC</h3>
-- 🌱 I’m currently learning **React and JavaScript**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liliwu8&label=Profile%20views&color=0e75b6&style=flat" alt="liliwu8" /> </p>
 
-
+- 🌱 I’m currently learning **React and JavaScript**
 
 - 📫 How to reach me **lili.wu178@gmail.com**
 
