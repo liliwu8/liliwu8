@@ -1,10 +1,13 @@
+![lili-wu](https://user-images.githubusercontent.com/96275694/179364554-b118dab9-0494-402c-b081-4eeeb45602bb.gif)
+
+
 <h1 align="left">Hi 👋,  I'm Li Li Wu</h1>
 <h3 align="left">A passionate fullStack software engineer from NYC</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liliwu8&label=Profile%20views&color=0e75b6&style=flat" alt="liliwu8" /> </p>
 
-- 🔭 I’m currently working on **Youtube Clone**
+- 🔭 I’m currently working on **Express.js**
 
 - 🌱 I’m currently learning **React and JavaScript**
 
