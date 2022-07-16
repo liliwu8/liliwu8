@@ -1,7 +1,7 @@
 ![lili-wu](https://user-images.githubusercontent.com/96275694/179364554-b118dab9-0494-402c-b081-4eeeb45602bb.gif)
 
 
-<h1 align="left">Hi 👋,  I'm Li Li Wu</h1>
+<h1 align="center">Hi 👋,  I'm Li Li Wu</h1>
 <h3 align="left">A passionate fullStack software engineer from NYC</h3>
 
 
@@ -29,9 +29,9 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liliwu8&show_icons=true&locale=en&layout=compact" alt="liliwu8" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liliwu8&show_icons=true&locale=en&layout=compact&theme=algolia" alt="liliwu8" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liliwu8&show_icons=true&locale=en" alt="liliwu8" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liliwu8&show_icons=true&locale=en&theme=algolia" alt="liliwu8" /></p>
 
 
 
