@@ -1,4 +1,4 @@
-![lili-wu](https://user-images.githubusercontent.com/96275694/179364554-b118dab9-0494-402c-b081-4eeeb45602bb.gif)
+<p align='center'><img width='1000'src='https://user-images.githubusercontent.com/96275694/179511695-623e4fa0-6676-4319-ac77-b33b1c9cf35d.gif'/></p>
 
 
 <h1 align="center">Hi 👋,  I'm Li Li Wu</h1>
