@@ -1,4 +1,4 @@
-<p align='center'><img width='900'src='https://user-images.githubusercontent.com/96275694/179511695-623e4fa0-6676-4319-ac77-b33b1c9cf35d.gif'/></p>
+<p align='center'><img width='890'src='https://user-images.githubusercontent.com/96275694/179511695-623e4fa0-6676-4319-ac77-b33b1c9cf35d.gif'/></p>
 
 
 <h1 align="center">Hi 👋,  I'm Li Li Wu</h1>
