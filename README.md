@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liliwu8&label=Profile%20views&color=606AD1&style=flat" alt="liliwu8" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce Fullstack PERN**
+- 🔭 I’m currently working on **Fullstack PERN**
 
 - 🌱 I’m currently learning **React and JavaScript**
 
