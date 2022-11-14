@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Fullstack PERN**
 
-- 🌱 I’m currently learning **React and JavaScript**
+- 🌱 I’m currently learning **SQL and JavaScript**
 
 - 📫 How to reach me **lili.wu178@gmail.com**
 
